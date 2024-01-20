@@ -9,3 +9,5 @@
 cmdr-nova/cmdr-nova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+░  : This user is anti-ai, anti-scraping, anti-disenfranchisement of aritsts, writers, and all who express themselves through creative mediums.
